@@ -2,7 +2,7 @@
 
 <h3>General Info</h3>
 
-Clever Space is a mobile application for UCVTS to help keep parents and the community up to date. The app includes information about upcoming events, important information such as school calendar and activities schedule, a way for teachers and students to share photos, and a way for parents to notify the school of student absences. Clever Space also includes additional items like a pathway to important links and website for students, teachers, and parents.
+Clever Space is a mobile application for UCVTS to help keep parents and the community up to date. The app includes information about upcoming events, important information such as school calendar and activities schedule, a way for teachers and students to share photos, and a way for parents to notify the school of student absences. Clever Space also includes additional items like a pathway to important links and websites for students, teachers, and parents.
 
 <h3>Additional Resources</h3>
 
