@@ -18,4 +18,4 @@ The app uses Google components to help store data:
 
 The app can be downloaded onto a computer by going onto the app, and then going into the Build subsection and downloading the Android App .apk file. By accessing the ap through the website, you must use the AI Companion App that can be installed in the App Store or the Google Play Store. On the AI Companion App, input the code given by the Connect feature in the website or scan the QR. The app will launch on the current app page the app is displaying.
 
-![QR Code](blob:chrome-untrusted://media-app/3bc58f0f-8196-4f09-9669-3870b57ed334)
+![QR Code](https://drive.google.com/file/d/12kRXg4CFxaL9rTUEZd_Y4R5ZNG3r05VC/view?usp=share_link)
